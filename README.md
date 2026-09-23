@@ -42,7 +42,6 @@ export type TConnectDialogCola = {
 ```
 /localhost:8007/strangeData/HelpPolice
 export type TConnectDialogPolice = {
-    address: string | null,
 }
 ```
 Вывод: Необходимо прочитать header запроса и исходя из браузера, его типа, решить помогать или нет
