@@ -10,7 +10,7 @@
 2) start nginx.exe
 3) localhost:8086
 4) Написать бэкенд для апи фронта, который описан в файле документация
-5) Сделайте бэкенд на порте 8007, что-бы он жил на нем. (настройки AppSettings -> "Urls": "http://*:8007")
+5) Сделайте бэкенд на порте 8007, что-бы он жил на нем. (настройки AppSettings и AppSettings.Development -> "Urls": "http://*:8007")
 Совет, добавьте swagger в проект, для этого нужно установить пакеты nuget Swashbuckle.AspNetCore.Swagger Swashbuckle.AspNetCore.SwaggerGen Swashbuckle.AspNetCore.SwaggerUI
 И подключить их в programm.cs (можно посмотреть в проекте funny)
 
