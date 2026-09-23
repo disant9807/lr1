@@ -28,7 +28,7 @@ export type TConnectDialogCola = {
 
 
 
-###(Реализовать вывоз полиции для пользователей хрома, смотреть по userAgent)
+### (Реализовать вывоз полиции для пользователей хрома, смотреть по userAgent)
 ```
 /localhost:8007/strangeData/HelpPolice
 export type TConnectDialogPolice = {
