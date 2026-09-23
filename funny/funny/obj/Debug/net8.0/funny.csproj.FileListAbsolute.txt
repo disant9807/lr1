@@ -1,0 +1,80 @@
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\appsettings.json
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\funny.staticwebassets.runtime.json
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\funny.staticwebassets.endpoints.json
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\funny.exe
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\funny.deps.json
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\funny.runtimeconfig.json
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\funny.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\funny.pdb
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.AssemblyInfoInputs.cache
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.AssemblyInfo.cs
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.csproj.CoreCompileInputs.cache
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.RazorAssemblyInfo.cache
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.RazorAssemblyInfo.cs
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\scopedcss\bundle\funny.styles.css
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\scopedcss\projectbundle\funny.bundle.scp.css
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\refint\funny.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.pdb
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.genruntimeconfig.cache
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\ref\funny.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.csproj.AssemblyReference.cache
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.csproj.Up2Date
+C:\Users\spitsyn_d\source\repos\funny\funny\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\spitsyn_d\source\repos\funny\funny\obj\Debug\net8.0\funny.MvcApplicationPartsAssemblyInfo.cs
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\appsettings.Development.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\appsettings.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\funny.staticwebassets.endpoints.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\funny.staticwebassets.runtime.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\funny.exe
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\funny.deps.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\funny.runtimeconfig.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\funny.dll
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\funny.pdb
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\Microsoft.OpenApi.dll
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.csproj.AssemblyReference.cache
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\rpswa.dswa.cache.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.GeneratedMSBuildEditorConfig.editorconfig
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.AssemblyInfoInputs.cache
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.AssemblyInfo.cs
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.csproj.CoreCompileInputs.cache
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.MvcApplicationPartsAssemblyInfo.cs
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.MvcApplicationPartsAssemblyInfo.cache
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.RazorAssemblyInfo.cache
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.RazorAssemblyInfo.cs
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\rjimswa.dswa.cache.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\scopedcss\bundle\funny.styles.css
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\scopedcss\projectbundle\funny.bundle.scp.css
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\staticwebassets.build.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\staticwebassets.build.json.cache
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\staticwebassets.development.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.csproj.Up2Date
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.dll
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\refint\funny.dll
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.pdb
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\funny.genruntimeconfig.cache
+\\servertopnsk\total v2.0\Temporary Shared\Asp Net Core Ajax\funny\funny\obj\Debug\net8.0\ref\funny.dll

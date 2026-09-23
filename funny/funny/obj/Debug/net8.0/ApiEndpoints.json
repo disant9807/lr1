@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "funny.Controllers.JokeController",
+    "Method": "UpdateMainJoke",
+    "RelativePath": "main",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
