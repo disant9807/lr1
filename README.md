@@ -12,11 +12,14 @@
 4) Написать бэкенд для апи фронта, который описан в файле документация
 5) Сделайте бэкенд на порте 8007, что-бы он жил на нем. (настройки AppSettings -> "Urls": "http://*:8007")
 Совет, добавьте swagger в проект, для этого нужно установить пакеты nuget Swashbuckle.AspNetCore.Swagger Swashbuckle.AspNetCore.SwaggerGen Swashbuckle.AspNetCore.SwaggerUI
-И подключить их в programm.cs (можно посмотреть в проекте funny) 
+И подключить их в programm.cs (можно посмотреть в проекте funny)
+
+```
 builder.Services.AddSwaggerGen();
 
 app.UseSwagger();
 app.UseSwaggerUI();
+```
 
 ## Документация
 (Реализовать заказ колы)
